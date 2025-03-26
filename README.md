@@ -1,13 +1,16 @@
 EXP 1: Ideal-Sampling
-Aim
+##Aim
+```
 To demonstrate the process of ideal sampling, where a continuous sinusoidal signal is sampled at a
 sufficient rate and accurately reconstructed without loss of information.
-Tools required
+```
+##Tools required
 . Python
 . NumPy
 . Matplotlib
 . SciPy
-Program
+###Program
+```
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import resample
@@ -48,8 +51,8 @@ plt.ylabel('Amplitude')
 plt.grid(True)
 plt.legend()
 plt.show()`
-
-Output Waveform
+```
+###Output Waveform
 
 ![image](https://github.com/user-attachments/assets/d1d0339c-d803-4ed5-9032-17c1d176a8b3)
 
