@@ -1,5 +1,7 @@
 EXP 1: Ideal-Sampling
+```
 ##Aim
+```
 ```
 To demonstrate the process of ideal sampling, where a continuous sinusoidal signal is sampled at a
 sufficient rate and accurately reconstructed without loss of information.
