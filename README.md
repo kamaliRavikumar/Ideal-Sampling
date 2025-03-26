@@ -50,9 +50,11 @@ plt.legend()
 plt.show()`
 
 Output Waveform
+
 ![image](https://github.com/user-attachments/assets/d1d0339c-d803-4ed5-9032-17c1d176a8b3)
 
 
 Results
+
 The original continuous sine wave was successfully sampled at 100 Hz. The sampled signal was
 plotted using discrete red markers. The signal was reconstructed using resampling techniques.
