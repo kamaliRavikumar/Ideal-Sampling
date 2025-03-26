@@ -5,10 +5,12 @@ To demonstrate the process of ideal sampling, where a continuous sinusoidal sign
 sufficient rate and accurately reconstructed without loss of information.
 ```
 ##Tools required
+```
 . Python
 . NumPy
 . Matplotlib
 . SciPy
+```
 ###Program
 ```
 import numpy as np
